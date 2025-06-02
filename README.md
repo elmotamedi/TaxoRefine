@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the method described in the paper:
 
-**"TITLE OF YOUR PAPER"**  
+**"TITLE OF PAPER"**  
 _Author(s): Your Name, Collaborators_  
 Submitted to: *[Journal/Conference Name]*  
 
@@ -20,8 +20,6 @@ This project proposes a **semi-automatic method for refining hierarchical taxono
 We validate the approach by abstracting the **Cooperative Patent Classification (CPC)** schema and applying the refined taxonomy to a **patent classification** task.
 
 ---
-
-## Project Structure
 
 ## Requirements
 

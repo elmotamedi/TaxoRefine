@@ -83,5 +83,6 @@ Follow these steps to reproduce the taxonomy refinement process:
 
 ## 📚 Citation
 If you use this code in your work, please cite:
+
 Motamedi, E., Novalija, I. & Rei, L. Semi-Automatic Hierarchical Taxonomy Creation from Existing Taxonomies with Large Language Models. Bus Inf Syst Eng (2026). https://doi.org/10.1007/s12599-025-00982-y
 

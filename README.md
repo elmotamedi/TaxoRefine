@@ -2,9 +2,9 @@
 
 This repository contains the implementation of the method described in the paper:
 
-**"TITLE OF PAPER"**  
-_Author(s): Your Name, Collaborators_  
-Submitted to: *[Journal/Conference Name]*  
+**"Semi-Automatic Hierarchical Taxonomy Creation from ExistingTaxonomies with Large Language Models"**  
+_Author(s): Elham Motamedi, Inna Novalija, Luis Rei 
+Submitted to: *Business and Information System Engineering (BISE)*  
 
 ---
 
@@ -82,3 +82,5 @@ Follow these steps to reproduce the taxonomy refinement process:
 
 ## 📚 Citation
 If you use this code in your work, please cite:
+Motamedi, E., Novalija, I. & Rei, L. Semi-Automatic Hierarchical Taxonomy Creation from Existing Taxonomies with Large Language Models. Bus Inf Syst Eng (2026). https://doi.org/10.1007/s12599-025-00982-y
+

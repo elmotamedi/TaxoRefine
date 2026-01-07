@@ -3,7 +3,7 @@
 This repository contains the implementation of the method described in the paper:
 
 **"Semi-Automatic Hierarchical Taxonomy Creation from ExistingTaxonomies with Large Language Models"**  
-_Author(s): Elham Motamedi, Inna Novalija, Luis Rei 
+Author(s): Elham Motamedi, Inna Novalija, Luis Rei 
 Submitted to: *Business and Information System Engineering (BISE)*  
 
 ---
